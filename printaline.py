@@ -2,6 +2,7 @@
     something else and this...
     Adding a few comments to make it interesting
     Lincoln: This is another line...
+    Here is soething new!
     """
 
 def take(count, iterable):
