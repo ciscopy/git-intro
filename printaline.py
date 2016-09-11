@@ -1,5 +1,6 @@
 """This file was copied from another lab...
     Adding a few comments to make it interesting
+    Lincoln: This is another line...
     """
 
 def take(count, iterable):
