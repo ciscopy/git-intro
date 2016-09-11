@@ -1,4 +1,4 @@
-"""There are a few changes here... Nevertheless..."""
+"""This file was copied from another lab..."""
 
 def take(count, iterable):
     """Take items from the front of an iterable
