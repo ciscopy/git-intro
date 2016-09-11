@@ -1,5 +1,5 @@
 """This file was copied from another lab...
-    something else
+    something else and this...
     """
 
 def take(count, iterable):
