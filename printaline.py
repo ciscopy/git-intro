@@ -1,5 +1,7 @@
 """This file was copied from another lab...
+<<<<<<< HEAD
     something else
+=======
     """
 
 def take(count, iterable):
